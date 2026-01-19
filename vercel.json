@@ -1,7 +1,11 @@
 {
   "routes": [
-    { "src": "/(.*)", "dest": "/index.html" }
+    {
+      "src": "/(.*)",
+      "dest": "/build/web/index.html"
+    }
   ]
 }
+
 
 
