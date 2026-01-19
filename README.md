@@ -33,3 +33,9 @@ This app is fully responsive and works across multiple platforms.
 
 ## 📂 Project Structure
 
+lib/ → Application source code
+assets/ → Images & static resources
+test/ → Tests
+android/ → Android platform files
+ios/ → iOS platform files
+web/ → Web platform files
