@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "559274094794",
+    "project_id": "raviapp-b6ac9",
+    "storage_bucket": "raviapp-b6ac9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559274094794:android:c19e437e32b34b23d20433",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcYqT51a1QTdzknlaWCpZa3tSJZk33dvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
