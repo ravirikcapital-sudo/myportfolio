@@ -1,16 +1,35 @@
-# my_app
+# My Portfolio App 🚀
 
-A new Flutter project.
+A modern **Flutter Portfolio Application** built to showcase my skills, projects, and experience.
+This app is fully responsive and works across multiple platforms.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- Modern & clean UI
+- Fully responsive layout
+- Cross-platform support
+- Easy to customize
+- Smooth user experience
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠 Tech Stack
+- Flutter
+- Dart
+- Material Design
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📱 Supported Platforms
+- Android
+- iOS
+- Web
+- Windows
+- Linux
+- macOS
+
+---
+
+## 📂 Project Structure
+
